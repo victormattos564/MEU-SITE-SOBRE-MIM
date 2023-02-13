@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>sobre mim</title>
+    <meta charset="utf-8" />
+    <header style="background-color: rgb(57, 82, 125);text-align: center;">
+        <img src="assets/imagem/PsiOmega.png" 64 height="64px">
+        <h1 style="text-align: center;">Victor Hugo</h1>
+</head>
+
+<body>
+    <article>
+        <a href="https://instagram.com/iam.mattosz?igshid=ZDdkNTZiNTM=" target="_blank">
+        <h1 style=" background-color: rgb(255, 255, 255);">SOBRE MIM</h1>
+        <p style="background-color: rgb(255, 255, 255);">Sou o Victor hugo, gosto de musica,tocar violão,tenho 16 anos moro
+            em valinho, sou tambem nascido em valinhos</p>
+    
+    
+        <h1 style="background-color: rgb(255, 255, 255);">Meus Hobbies</h1>
+        <p style="background-color: rgb(255, 255, 255);">gosto de violão,musica,jogar basquete,video-game,etc..</p>
+        <a href=">instagram</a>
+    </article>"https://instagram.com/iam.mattosz?igshid=ZDdkNTZiNTM=
+    </header>
+</body>
